@@ -1,6 +1,6 @@
 # DReaMeR - Dynamic Readaptation and Memory Retention
 
-### A CS771 Course Project
+### This project was done as a course project for the course CS771: Introduction to Machine Learning, under Prof. Piyush Rai, IIT Kanpur.
 
 ## Installation  
 
